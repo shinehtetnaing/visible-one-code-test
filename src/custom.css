@@ -1,0 +1,11 @@
+/* custom.css */
+.switch {
+    cursor: pointer;
+    border-radius: 9999px;
+    padding: 10px;
+    width: 250px;
+    background: transparent linear-gradient(270deg, rgba(58, 231, 171, 1) 0%, rgba(45, 196, 234, 1) 100%) 0% 0% no-repeat padding-box;
+    border: 1px solid rgba(255, 255, 255, 1);
+    border-radius: 50px;
+    transition: ease-in 0.3s;
+}
